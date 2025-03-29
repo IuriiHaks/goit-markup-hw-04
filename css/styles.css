@@ -303,8 +303,7 @@ img {
 }
 
 .team-cont {
-  padding-top: 32px;
-  /* padding: 32px 0; */
+  padding: 32px 0;
 }
 
 .team-subject {
@@ -332,9 +331,9 @@ img {
   letter-spacing: 0.02em;
 }
 
-.team-social-links {
+/* .team-social-links {
   padding: 32px 0;
-}
+} */
 
 .social-links {
   display: flex;
@@ -343,6 +342,7 @@ img {
   justify-content: center;
   /* padding-bottom: 32px;
   padding-top: 8px; */
+  /* padding: 32px 0; */
 }
 
 .social-list {
