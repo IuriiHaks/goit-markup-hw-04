@@ -471,6 +471,10 @@ img {
   padding: 100px 0;
 }
 
+.footer-logo {
+  margin-right: 120px;
+}
+
 .footer-text {
   color: #f4f4fd;
 
@@ -493,4 +497,19 @@ img {
 
 .accent-logo {
   color: #f4f4fd;
+}
+
+.social-box {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.social-box-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
 }
