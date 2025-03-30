@@ -310,6 +310,7 @@ img {
   font-weight: 400;
   line-height: 150%;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .social-links {
@@ -320,7 +321,6 @@ img {
 }
 
 .social-list {
-  margin-top: 8px;
   width: 40px;
   height: 40px;
 }
@@ -450,7 +450,6 @@ li:hover {
 .footer-container {
   display: flex;
   align-items: baseline;
-  gap: 16px;
 }
 
 .footer-text {
